@@ -9,7 +9,7 @@ keys:
 
 acls:
   - name: UserAccess.aclpolicy
-    file: data/user.aclpolicy
+    file: acls/user.aclpolicy
 
 users:
   - username: alice
